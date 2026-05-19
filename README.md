@@ -33,9 +33,13 @@
 
 ## 📖 About the Project
 
-Pathfinder is a full-stack MVC web application that enables users to create, share, and explore travel routes enriched with detailed metadata such as distance, difficulty, landmarks, and more.
+Pathfinder is a full-stack MVC web application inspired by the well-known SoftUni Pathfinder project, significantly extended with additional functionality and custom features to demonstrate practical full-stack development skills.
 
-The application is fully responsive and optimized for desktop, tablet, and mobile devices. It uses JavaScript (Fetch API) to handle dynamic interactions without page reloads, creating a smooth, SPA-like experience while preserving the Spring MVC architecture.
+The platform enables users to create, share, and explore travel routes enriched with detailed metadata such as distance, difficulty, landmarks, images, and more.
+
+The application is fully responsive and optimized for desktop, tablet, and mobile devices. It uses JavaScript (Fetch API) to provide dynamic interactions without full page reloads, creating a smooth SPA-like user experience while preserving the Spring MVC architecture.
+
+Through this project, I expanded the original concept with additional business logic, improved UI/UX, asynchronous functionality, and production-oriented features to better reflect real-world application development.
 
 > ⚙️ Tech Stack:
 
